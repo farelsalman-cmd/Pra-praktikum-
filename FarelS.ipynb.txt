@@ -1,0 +1,140 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "OwGG0n_Cy-A2",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 35
+        },
+        "outputId": "cf5b26f7-0fa2-4983-f7e6-24e6180c385b"
+      },
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "'hello world'"
+            ],
+            "application/vnd.google.colaboratory.intrinsic+json": {
+              "type": "string"
+            }
+          },
+          "metadata": {},
+          "execution_count": 9
+        }
+      ],
+      "source": [
+        "\"hello world\"\n",
+        "'hello world'"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#String\n",
+        "\"Hello World\"\n",
+        "'Hello World'\n",
+        "\"1234\""
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 35
+        },
+        "id": "44ULfU-y9ww9",
+        "outputId": "fb817786-aa23-4ac2-d391-f952f7f97699"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "'1234'"
+            ],
+            "application/vnd.google.colaboratory.intrinsic+json": {
+              "type": "string"
+            }
+          },
+          "metadata": {},
+          "execution_count": 8
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Print()\n",
+        "print(\"hello world\")\n",
+        "print(\"Nama                 : Muhammad Farel Salman\")\n",
+        "print(\"NPM                  : 2605060003\")\n",
+        "print(\"Tempat,Tanggal lahir : Magelang,6 Juni 2008\")\n",
+        "print(\"Alamat.              : Magelang\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "uWCy6AFR2P25",
+        "outputId": "eafc9709-56a4-44b7-fc4e-e08e55a138d6"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "hello world\n",
+            "Nama                 : Muhammad Farel Salman\n",
+            "NPM                  : 2605060003\n",
+            "Tempat,Tanggal lahir : Magelang,6 Juni 2008\n",
+            "Alamat.              : Magelang\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Komentar\n",
+        "print(\"komentar\")\n",
+        "#Print"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 0
+        },
+        "id": "SLt-h9QTm_Gv",
+        "outputId": "d2595730-16d1-48ca-dc24-28799c1eebe0"
+      },
+      "execution_count": 5,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "komentar\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
